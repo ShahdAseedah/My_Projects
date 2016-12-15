@@ -20,4 +20,16 @@ Our POV project includes a total of 40 RGB LEDs that are stacked vertically on a
 https://drive.google.com/open?id=0B2Wt1JwjYHqyWl9sQWJCX05oaTg
 
 
+##-3-
+# alumni website (draft)
+https://drive.google.com/open?id=0B2Wt1JwjYHqyRGtWNVNkaHRUVE0
+
+##-4-
+# Web Development Strategy for Alumni Website
+A website strategy spells out the game plan for the site much the same way that a business plan sets key information about an organization’s product, services, and strategic direction. However, while a business plan focuses on the big idea behind a company and its market positioning, a website strategy spells out how the site contributes to larger business goals, and includes elements unique to the online space. Ideally, a business plan and a site strategy dovetail perfectly so it is clear how the site supports the border goals of the business plan.
+Whether creating a new website or re-developing an existing one it is important to have addressed the business case underpinning the project. Developing the business case is extremely helpful in ensuring that the website project matches an organization’s mission and objectives and can be managed and resourced according to the organization’s resources. The business strategic planning process is an essential risk management tool and is therefore undertaken prior to commencing a project. The Business Plan provides the basis on which the Brief for a web developer is constructed.
+This document provides a Web development strategy for a transformational change and redesign the official website of Alumni Network of An-Najah National University. It covers the essential areas that should be addressed when developing their website, Providing Alumni network’s vision and mission, executing external and internal analysis, devising business strategy, presenting website Structure and finally providing recommendations for continues improvement and growth.
+
+https://drive.google.com/open?id=0B2Wt1JwjYHqyNFk5ZmxWcW55Znc
+
 
